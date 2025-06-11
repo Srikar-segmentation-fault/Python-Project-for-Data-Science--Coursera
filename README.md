@@ -1,12 +1,12 @@
-# 📊 Final Data Science Project – Python for Data Science
+#  Final Data Science Project – Python for Data Science
 
 This project is the final assignment for the **IBM Python for Data Science** course on Coursera. The notebook demonstrates foundational data science techniques using Python, including data manipulation, analysis, visualization, and real-world data extraction through web scraping.
 
-## 📁 File
+##  File
 
 * `python project for data science final assignment.ipynb`: Main notebook covering the final assignment tasks and solutions.
 
-## 🔧 Tools & Libraries Used
+##  Tools & Libraries Used
 
 * pandas
 * numpy
@@ -15,7 +15,7 @@ This project is the final assignment for the **IBM Python for Data Science** cou
 * yfinance
 * requests
 
-## 🚀 Key Sections in the Notebook
+##  Key Sections in the Notebook
 
 1. **Web Scraping** – Using `requests` and HTML parsing with `BeautifulSoup` to extract real-world data from websites.
 2. **Loading the Dataset** – Reading structured data using `pandas` from CSV or web sources.
@@ -24,7 +24,7 @@ This project is the final assignment for the **IBM Python for Data Science** cou
 5. **Data Visualization** – Creating interactive and static plots using Plotly.
 6. **Data Aggregation & Insights** – Summarizing datasets to find key patterns and trends.
 
-## 📌 How to Run
+##  How to Run
 
 1. Clone the repository:
 
