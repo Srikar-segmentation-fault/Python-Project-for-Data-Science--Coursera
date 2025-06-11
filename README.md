@@ -9,7 +9,6 @@ This project is the final assignment for the **IBM Python for Data Science** cou
 ##  Tools & Libraries Used
 
 * pandas
-* numpy
 * BeautifulSoup
 * Plotly
 * yfinance
